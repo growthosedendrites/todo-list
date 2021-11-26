@@ -1,0 +1,40 @@
+
+
+
+html {
+  font-family: 'Press Start 2P', cursive;
+  color: blue;
+
+}
+
+.done {
+  text-decoration: line-through;
+  text-decoration-color: limegreen;
+}
+
+li {
+  padding:  5px;
+}
+
+.begone {
+  margin-left: 20px;
+  margin-right:  20px;
+}
+
+
+.container {
+  display: block;
+  
+}
+
+#background-img {
+ image-size: 100%, auto;
+ 
+}
+
+.container {
+  position: absolute;
+  top: 0px;
+  padding-left: 120px;
+
+}
